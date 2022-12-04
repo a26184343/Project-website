@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cb7e3ea.css",
+    "main.js": "/static/js/main.01edd173.js",
+    "static/media/chat.png": "/static/media/chat.448ecc5729568a2fe147.png",
+    "static/media/handdoc.png": "/static/media/handdoc.0774f60793017c2078ca.png",
+    "static/media/intro.mp4": "/static/media/intro.5505b71960b71b35a7b9.mp4",
+    "static/media/anadoc.png": "/static/media/anadoc.640f2df20ffbc50d8fda.png",
+    "static/media/engineering.png": "/static/media/engineering.76439ab17a1b2e626aea.png",
+    "static/media/sedia.png": "/static/media/sedia.f77162c59d53b88ce83f.png",
+    "static/media/poster.jpg": "/static/media/poster.545d6a1701a73b3f0790.jpg",
+    "static/media/vote.png": "/static/media/vote.630a068115b3da569f07.png",
+    "static/media/love.png": "/static/media/love.065f7c13a71fcc7bafcf.png",
+    "static/media/exam.jpg": "/static/media/exam.089989f21fe0a4094972.jpg",
+    "static/media/logo2.png": "/static/media/logo2.ded9c262347b7a299ca7.png",
+    "static/media/logo.png": "/static/media/logo.effcd558efa909ad2c14.png",
+    "static/media/demandTitle.PNG": "/static/media/demandTitle.640d56e57a9f6d3ad6bc.PNG",
+    "static/media/projectTitle.PNG": "/static/media/projectTitle.3ac497b7c4ef42534dc0.PNG",
+    "index.html": "/index.html",
+    "main.4cb7e3ea.css.map": "/static/css/main.4cb7e3ea.css.map",
+    "main.01edd173.js.map": "/static/js/main.01edd173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb7e3ea.css",
+    "static/js/main.01edd173.js"
+  ]
+}
