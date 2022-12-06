@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ee84ff4.css",
+    "main.js": "/static/js/main.6fc822ba.js",
+    "static/media/run.mp4": "/static/media/run.94c231a15975ac2daf2b.mp4",
+    "static/media/chat.png": "/static/media/chat.448ecc5729568a2fe147.png",
+    "static/media/loading.mp4": "/static/media/loading.8a992cb1f999d17e51c2.mp4",
+    "static/media/intro.mp4": "/static/media/intro.5505b71960b71b35a7b9.mp4",
+    "static/media/anadoc.png": "/static/media/anadoc.640f2df20ffbc50d8fda.png",
+    "static/media/gitrepo.png": "/static/media/gitrepo.47c51fc702d707467211.png",
+    "static/media/engineering.png": "/static/media/engineering.76439ab17a1b2e626aea.png",
+    "static/media/sedia.png": "/static/media/sedia.f77162c59d53b88ce83f.png",
+    "static/media/poster.jpg": "/static/media/poster.545d6a1701a73b3f0790.jpg",
+    "static/media/git.png": "/static/media/git.ba2e9c7673bb085e6d08.png",
+    "static/media/vote.png": "/static/media/vote.630a068115b3da569f07.png",
+    "static/media/love.png": "/static/media/love.065f7c13a71fcc7bafcf.png",
+    "static/media/exam.jpg": "/static/media/exam.089989f21fe0a4094972.jpg",
+    "static/media/handdoc.png": "/static/media/handdoc.e974b7b94fbda0ef8501.png",
+    "static/media/logo.png": "/static/media/logo.effcd558efa909ad2c14.png",
+    "static/media/logo2.png": "/static/media/logo2.8c4fb41b62b6687b5e04.png",
+    "static/media/demandTitle.PNG": "/static/media/demandTitle.640d56e57a9f6d3ad6bc.PNG",
+    "static/media/projectTitle.PNG": "/static/media/projectTitle.3ac497b7c4ef42534dc0.PNG",
+    "index.html": "/index.html",
+    "main.5ee84ff4.css.map": "/static/css/main.5ee84ff4.css.map",
+    "main.6fc822ba.js.map": "/static/js/main.6fc822ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee84ff4.css",
+    "static/js/main.6fc822ba.js"
+  ]
+}
