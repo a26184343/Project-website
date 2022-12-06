@@ -6,7 +6,7 @@
 蕭舜昕。輔仁大學進修部軟體工程與數位創意學系。四年級。
 ## :desktop_computer:成果頁
    * 桌上型、筆記型電腦，請點選URL:https://hsiaostudentproject.netlify.app
-   * 手機、平板，請掃描QR code:
+   * 手機、平板，請掃描QR code: ![QR code](https://github.com/a26184343/Project-website/blob/master/student_project/frontend/src/assets/qrcode.png)
 ## :point_right:怎麼看懂、運用這個專題
 1. 了解使用者介面設計
    * 請點進[frontend->src->components]()觀看每一個.jsx檔案。
