@@ -64,6 +64,8 @@ Github--部屬-->Netlify
 ## :page_facing_up:專題相關文件
 1. 專題報告書
    * URL:https://docs.google.com/document/d/1Y0vA1FeONLoPKLL683QHWnx2xdgTAM9DwlLq8jKfiVc/edit?usp=sharing 。
+1. 專題簡介
+   * URL:https://docs.google.com/document/d/11rjTpn6aW-L_4XjuRzz61vBGVdmf7jyc_tbH-RGJHwc/edit?usp=sharing 。
 2. 需求規格書
    * URL:https://docs.google.com/document/d/1klQh3hYoyf3J5ZgDXzu_unH0WM0c3wfhsH0Qj-yKucs/edit?usp=sharing 。
 3. 規格塑模書
