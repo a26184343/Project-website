@@ -1,6 +1,6 @@
 <div align='center'>
 蕭舜昕的學生專題<br>
-<img src='https://github.com/a26184343/Project-website/blob/master/student_project/frontend/src/assets/logo2.png' alt=''>
+<img src='https://github.com/a26184343/Project-website/blob/master/student_project/frontend/src/assets/logo2.png' alt='https://hsiaostudentproject.netlify.app/login'>
 </div>
 
 ---
